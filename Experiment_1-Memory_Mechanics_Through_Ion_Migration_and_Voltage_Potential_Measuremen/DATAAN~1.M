@@ -1,4 +1,4 @@
-function dataAnalysis(Data)
+function currentAnalysis(Data)
 % take the raw data and organise it against time titled by the input
 % sequence that casued it
 [dataLenght,inputs,dataNum] = size(Data);
