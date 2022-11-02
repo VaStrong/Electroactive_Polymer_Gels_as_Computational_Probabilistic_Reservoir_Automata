@@ -1,6 +1,6 @@
 # EAP_Gels_as_Computational_Moore_Reservoir_Automaton_Supplementary_Information
 
-This repository contains all code and data used within the experiments described in the paper “Electroactive Polymer Gels as Probabilistic Reservoir Automata for Computation”. All data analysis was performed using code written in the Matlab environment, using Matlab packages, and datasets constructed in Matlab. This repository is available under the DOI 10.5281/zenodo.5759712.
+This repository contains all code and data used within the experiments described in the paper “Electroactive Polymer Gels as Probabilistic Reservoir Automata for Computation”. All data analysis was performed using code written in the Matlab environment, using Matlab packages, and datasets constructed in Matlab. This repository is available on Zenodo.
 This repository is organised into folders according to the section of the paper, labelled as “Experiment \_1-Memory \_Mechanics \_Through \_Ion \_Migration \_and \_Voltage \_Potential \_Measurement”, "Experiment \_2-Applying \_EAP \_gel \_to \_a \_Moore \_Machine \_Automata", and “Experiment \_3-Applying \_Moore \_Reservoir \_Hybrid \_to \_Collected \_Data”. The specific functions and datasets are detailed below broken down by folder.
 
 ## "Experiment \_1-Memory \_Mechanics \_Through \_Ion \_Migration \_and \_Voltage \_Potential \_Measurement"
